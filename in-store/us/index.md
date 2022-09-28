@@ -8,6 +8,8 @@ page: training
 #### What is the Amazon Counter Service?
 The Amazon Hub Counter Service allows your location to offer customers a new way to receive their orders. Here you’ll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.
 
+<INSERT VIDEO>
+  
 <div style="text-align: center;">
 <span>
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
